@@ -1,0 +1,79 @@
+﻿img{ 
+  opacity: 0.5;
+   
+} 
+
+img:hover { 
+  opacity: 1; 
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://goo.gl/Nsw3vi');
+  height: 600px;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color:white
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #000;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  text-align:right;
+  font-family:Copperplate, 'Copperplate Gothic Light', fantasy;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+  text-align:right
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+div #class hover {
+	color: #cc0000;
+	font-weight: bold;
+	text-decoration: none;
+}
+h2 {
+	color: #000;
+  	font-size: 30px;  
+  	font-family: 'Shift', sans-serif;
+  	font-weight: bold;
+  	text-align:left;
+  	font-family:Copperplate, 'Copperplate Gothic Light', fantasy
+}
+:share-buttons {
+	position:relative
+}
